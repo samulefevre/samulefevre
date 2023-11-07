@@ -2,7 +2,7 @@ Hi, I’m @samulefevre 👋
 
 <!-- I’m interested in ... 👀 -->
 
-I’m currently learning Flutter(Dart), NuxtJs and Node.js 🌱 
+I’m developer, i work with nuxt 3 and flutter.
 
 <!--
 
